@@ -1,5 +1,6 @@
 mod draw;
 mod game;
+mod snake;
 
 extern crate piston_window;
 extern crate rand;
